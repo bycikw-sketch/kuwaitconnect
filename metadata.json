@@ -1,0 +1,5 @@
+{
+  "name": "Kuwait Connect",
+  "description": "The #1 community platform for all nationalities in Kuwait. Marketplace, Jobs, Events, and Forums.",
+  "requestFramePermissions": ["geolocation", "notifications"]
+}

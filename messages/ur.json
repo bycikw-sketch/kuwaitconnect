@@ -1,0 +1,28 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "view_all": "View All",
+    "categories": "Categories",
+    "loading": "Loading...",
+    "error": "An error occurred"
+  },
+  "nav": {
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "jobs": "Jobs",
+    "events": "Events",
+    "forum": "Forum",
+    "news": "News",
+    "profile": "Profile",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero_title": "Connecting All Nationalities in Kuwait",
+    "hero_subtitle": "The #1 community platform for expats and locals. Find jobs, buy/sell, join events, and more.",
+    "live_rates": "Live Rates",
+    "trending": "Trending Now"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "common": {
+    "title": "Kuwait Connect",
+    "description": "The #1 community platform for all nationalities in Kuwait.",
+    "search": "Search...",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "nav": {
+    "marketplace": "Marketplace",
+    "jobs": "Jobs",
+    "events": "Events",
+    "forum": "Forum",
+    "news": "News"
+  },
+  "home": {
+    "hero_title": "Connecting Everyone in Kuwait",
+    "hero_subtitle": "The modern platform for expats and locals to trade, find jobs, and build community.",
+    "trending": "Trending Now",
+    "live_rates": "Live Rates"
+  }
+}
